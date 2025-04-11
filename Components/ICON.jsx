@@ -3,8 +3,9 @@ import React from "react";
 const ICON = () => {
   return (
     <svg
-      className="absolute inset-x-0 bottom-0 text-white"
-      viewBox="0 0 1160 163"
+      className="absolute inset-x-0 bottom-0 text-white h-[163px]"
+      viewBox="-200 0 1400 163"
+      xmlns="http://www.w3.org/2000/svg"
     >
       <path
         fill="currentColor"
